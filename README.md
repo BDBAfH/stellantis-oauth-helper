@@ -28,7 +28,8 @@ This tool dynamically fetches the latest configuration from the [Home Assistant 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/benbox69/stellantis-oauth-helper.git
+~~git clone https://github.com/benbox69/stellantis-oauth-helper.git
+git clone https://github.com/BDBAfH/stellantis-oauth-helper.git
 cd stellantis-oauth-helper
 ```
 
